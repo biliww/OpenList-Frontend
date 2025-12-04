@@ -154,3 +154,5 @@ pnpm format
 pnpm build 后 得到 dist文件夹
 
 针对mainfest.json 需要移动到外部dist文件夹下
+
+12
