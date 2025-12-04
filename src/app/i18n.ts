@@ -8,6 +8,7 @@ const langs = import.meta.glob("~/lang/*/index.json", {
   import: "lang",
 })
 
+console.info("i18n-Languages:", langs)
 // all available languages
 export const languages = Object.keys(langs).map((langPath) => {
   const langCode = langPath.split("/")[3]

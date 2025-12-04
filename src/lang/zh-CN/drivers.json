@@ -1,0 +1,1537 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "需要一个二维码令牌和 cookie",
+    "limit_rate": "限速率",
+    "limit_rate-tips": "限制所有 api 请求率 ([limit]r/1s)",
+    "page_size": "页面大小",
+    "page_size-tips": "列出每页大小115个驱动程序的api",
+    "qrcode_source": "Qrcode 源",
+    "qrcode_source-tips": "选择二维码设备，默认 linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "伊奥斯",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode令牌",
+    "qrcode_token-tips": "需要一个二维码令牌和 cookie",
+    "root_folder_id": "根文件夹 id"
+  },
+  "115 Open": {
+    "access_token": "访问令牌",
+    "limit_rate": "限速率",
+    "limit_rate-tips": "限制所有 api 请求率 ([limit]r/1s)",
+    "order_by": "排序方式",
+    "order_bys": {
+      "file_name": "文件名称",
+      "file_size": "文件大小",
+      "file_type": "文件类型",
+      "user_utime": "用户当前时间"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id"
+  },
+  "115 Share": {
+    "cookie": "Cookie",
+    "cookie-tips": "需要一个二维码令牌和 cookie",
+    "limit_rate": "限速率",
+    "limit_rate-tips": "限制所有 api 请求速率(1r/[limit_rate]s)",
+    "page_size": "页面大小",
+    "page_size-tips": "列出每页大小115个驱动程序的api",
+    "qrcode_source": "Qrcode 源",
+    "qrcode_source-tips": "选择二维码设备，默认 linux",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "伊奥斯",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Web",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Qrcode令牌",
+    "qrcode_token-tips": "需要一个二维码令牌和 cookie",
+    "receive_code": "接收代码",
+    "receive_code-tips": "接收115分享链接的代码",
+    "root_folder_id": "根文件夹 id",
+    "share_code": "共享代码",
+    "share_code-tips": "共享代码115共享链接"
+  },
+  "123 Open": {
+    "AccessToken": "AccessToken",
+    "ClientID": "ClientID",
+    "ClientSecret": "ClientSecret",
+    "DirectLink": "DirectLink",
+    "DirectLink-tips": "下载文件时使用直接链接",
+    "DirectLinkPrivateKey": "DirectLinkPrivateKey",
+    "DirectLinkPrivateKey-tips": "如果启用了 URL 身份验证则直接链接的私钥",
+    "DirectLinkValidDuration": "DirectLinkValidDuration",
+    "DirectLinkValidDuration-tips": "分钟，如果已启用 URL 身份验证",
+    "RefreshToken": "RefreshToken",
+    "UploadThread": "上传线程",
+    "UploadThread-tips": "上传线程",
+    "root_folder_id": "根文件夹 id"
+  },
+  "123Pan": {
+    "UploadThread": "上传线程",
+    "UploadThread-tips": "上传线程",
+    "password": "密码",
+    "platform": "平台",
+    "platform-tips": "与API请求一起发送的平台头值",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名"
+  },
+  "123PanLink": {
+    "origin_urls": "来源网址",
+    "origin_urls-tips": "structure:foldername:\n  [FileSize:][修改:]Url",
+    "private_key": "私钥",
+    "uid": "Uid",
+    "valid_duration": "有效期限",
+    "valid_duration-tips": "分钟"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "根文件夹 id",
+    "sharekey": "共享密钥",
+    "sharepassword": "共享密码"
+  },
+  "139Yun": {
+    "authorization": "授权",
+    "cloud_id": "云ID",
+    "custom_upload_part_size": "自定义上传部件大小",
+    "custom_upload_part_size-tips": "0 for auto",
+    "report_real_size": "报告实际大小",
+    "report_real_size-tips": "启用在上传时报告真实文件大小",
+    "root_folder_id": "根文件夹 id",
+    "type": "类型",
+    "types": {
+      "family": "家庭",
+      "group": "组别",
+      "personal": "个人资料",
+      "personal_new": "个人新的"
+    },
+    "use_large_thumbnail": "使用大缩略图",
+    "use_large_thumbnail-tips": "启用图像使用大缩略图",
+    "user_domain_id": "用户域 id",
+    "user_domain_id-tips": "ud_id 在 Cookie 中，填写以显示磁盘使用"
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "如果需要验证码，在cookie中填充",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名"
+  },
+  "189CloudPC": {
+    "family_id": "品类 id",
+    "family_transfer": "家庭转移",
+    "login_type": "登录类型",
+    "login_types": {
+      "password": "密码",
+      "qrcode": "Qrcode"
+    },
+    "no_use_ocr": "无使用 ocr",
+    "order_by": "排序方式",
+    "order_bys": {
+      "filename": "文件名",
+      "filesize": "文件大小",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "密码",
+    "rapid_upload": "快速上传",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "要切换帐户，请清除此字段",
+    "root_folder_id": "根文件夹 id",
+    "type": "类型",
+    "types": {
+      "family": "家庭",
+      "personal": "个人资料"
+    },
+    "upload_method": "上传方法",
+    "upload_methods": {
+      "old": "旧的",
+      "rapid": "快速的",
+      "stream": "流"
+    },
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1<=线程<=32",
+    "username": "用户名",
+    "validate_code": "Validate code"
+  },
+  "189CloudTV": {
+    "access_token": "访问令牌",
+    "family_id": "品类 id",
+    "order_by": "排序方式",
+    "order_bys": {
+      "filename": "文件名",
+      "filesize": "文件大小",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "rapid_upload": "快速上传",
+    "root_folder_id": "根文件夹 id",
+    "type": "类型",
+    "types": {
+      "family": "家庭",
+      "personal": "个人资料"
+    },
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1<=线程<=32"
+  },
+  "Alias": {
+    "details_pass_through": "详细信息通过",
+    "download_concurrency": "下载同义词",
+    "download_concurrency-tips": "需要启用代理",
+    "download_part_size": "下载部件大小",
+    "download_part_size-tips": "需要启用代理。单位：KB",
+    "parallel_write": "并行写",
+    "paths": "路径",
+    "protect_same_name": "保护相同名称",
+    "protect_same_name-tips": "保护同名文件不被删除或重命名。",
+    "provider_pass_through": "提供者通过",
+    "writable": "可写"
+  },
+  "Aliyundrive": {
+    "internal_upload": "内部上传",
+    "order_by": "排序方式",
+    "order_bys": {
+      "created_at": "创建于",
+      "name": "名称",
+      "size": "大小",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "快速上传",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id"
+  },
+  "AliyundriveOpen": {
+    "alipan_type": "别名类型",
+    "alipan_types": {
+      "alipanTV": "AlipanTV",
+      "default": "默认设置"
+    },
+    "api_url_address": "Api url地址",
+    "client_id": "客户端ID",
+    "client_id-tips": "如果你没有一个，请留空",
+    "client_secret": "客户端密钥",
+    "client_secret-tips": "如果你没有一个，请留空",
+    "drive_type": "驱动器类型",
+    "drive_types": {
+      "backup": "备份",
+      "default": "默认设置",
+      "resource": "资源"
+    },
+    "internal_upload": "内部上传",
+    "internal_upload-tips": "如果你正在使用 Aliyun ECS 位于北京，你可以开启它来提高上传速度",
+    "livp_download_format": "Livp 下载格式",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "移动版"
+    },
+    "order_by": "排序方式",
+    "order_bys": {
+      "created_at": "创建于",
+      "name": "名称",
+      "size": "大小",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "快速上传",
+    "rapid_upload-tips": "如果您启用此选项，文件将先上传到服务器，所以进度将不正确",
+    "refresh_token": "刷新令牌",
+    "remove_way": "移除方式",
+    "remove_ways": {
+      "delete": "删除",
+      "trash": "回收站"
+    },
+    "root_folder_id": "根文件夹 id",
+    "use_online_api": "使用在线api"
+  },
+  "AliyundriveShare": {
+    "order_by": "排序方式",
+    "order_bys": {
+      "created_at": "创建于",
+      "name": "名称",
+      "size": "大小",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "share_id": "分享ID",
+    "share_pwd": "分享pwd"
+  },
+  "Azure Blob Storage": {
+    "access_key": "访问密钥",
+    "access_key-tips": "用于身份验证的 Azure 存储的访问密钥。https://learn.microsoft.com/azure/storage/common/storage-account-keys-management",
+    "container_name": "容器名称",
+    "container_name-tips": "Azure 存储 (在 Azure portal中创建)容器名称。https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal",
+    "endpoint": "Endpoint",
+    "endpoint-tips": "例如：https://accountname.blob.core.windows.net/。Azure Storage的完整端点URL，包括唯一的存储帐户名称(3~24 个数字和小写字母)。",
+    "root_folder_path": "根文件夹路径",
+    "sign_url_expire": "签名地址过期",
+    "sign_url_expire-tips": "SAS URLs 的到期时间，以小时为单位。"
+  },
+  "BaiduNetdisk": {
+    "api_url_address": "Api url地址",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "custom_crack_ua": "自定义裂痕ua",
+    "custom_upload_part_size": "自定义上传部件大小",
+    "custom_upload_part_size-tips": "0 for auto",
+    "download_api": "下载 api",
+    "download_apis": {
+      "crack": "裂痕模式",
+      "crack_video": "破折片视频",
+      "official": "官方的"
+    },
+    "low_bandwith_upload_mode": "低带宽上传模式",
+    "only_list_video_file": "仅列出视频文件",
+    "order_by": "排序方式",
+    "order_bys": {
+      "name": "名称",
+      "size": "大小",
+      "time": "时间"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根文件夹路径",
+    "upload_api": "上传 api",
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1<=线程<=32",
+    "upload_timeout": "上传超时",
+    "upload_timeout-tips": "每切片上传超时秒数",
+    "use_dynamic_upload_api": "使用动态上传api",
+    "use_dynamic_upload_api-tips": "动态获取上传api域，如果启用，“上传API”设置将被用作后备。",
+    "use_online_api": "使用在线api"
+  },
+  "BaiduPhoto": {
+    "album_id": "相册ID",
+    "cookie": "Cookie",
+    "delete_origin": "删除来源",
+    "show_type": "显示类型",
+    "show_types": {
+      "root": "根目录",
+      "root_only_album": "仅Root相册",
+      "root_only_file": "仅Root文件"
+    },
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1<=线程<=32"
+  },
+  "CNB Releases": {
+    "default_branch": "默认分支",
+    "default_branch-tips": "新版本的默认分支",
+    "repo": "复数",
+    "root_folder_id": "根文件夹 id",
+    "token": "令牌",
+    "use_tag_name": "使用标签名称",
+    "use_tag_name-tips": "使用标签名称代替发布名称"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "Cookie",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "user_name": "用户名"
+  },
+  "Chunk": {
+    "chunk_large_file_only": "仅模板片段大文件",
+    "chunk_large_file_only-tips": "只有文件大小 > part_size 时区块大小",
+    "chunk_prefix": "Chunk prefix",
+    "chunk_prefix-tips": "区块文件夹的前缀",
+    "custom_ext": "自定义边框",
+    "num_list_workers": "列表工作人员数量",
+    "part_size": "部件大小",
+    "part_size-tips": "字节",
+    "remote_path": "远程路径",
+    "show_hidden": "显示隐藏的",
+    "show_hidden-tips": "显示隐藏目录和文件",
+    "store_hash": "存储哈希值",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "启用在.thumbnail文件夹下预先生成的缩略图"
+  },
+  "Cloudreve": {
+    "address": "地址",
+    "cookie": "Cookie",
+    "custom_ua": "自定义ua",
+    "enable_thumb_and_folder_size": "启用缩略图和文件夹大小",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "username": "用户名"
+  },
+  "Cloudreve V4": {
+    "access_token": "访问令牌",
+    "address": "地址",
+    "custom_ua": "自定义ua",
+    "enable_folder_size": "启用文件夹大小",
+    "enable_thumb": "启用缩略图",
+    "enable_version_upload": "启用版本上传",
+    "hide_uploading": "隐藏上传",
+    "order_by": "排序方式",
+    "order_bys": {
+      "created_at": "创建于",
+      "name": "名称",
+      "size": "大小",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "密码",
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根文件夹路径",
+    "username": "用户名"
+  },
+  "Crypt": {
+    "directory_name_encryption": "目录名称加密",
+    "directory_name_encryptions": {
+      "false": "错误",
+      "true": "真的"
+    },
+    "encrypted_suffix": "加密后缀",
+    "encrypted_suffix-tips": "仅限高级用户 ！加密的文件将有此后缀",
+    "filename_encoding": "文件编码",
+    "filename_encoding-tips": "仅限高级用户 ！",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "文件名加密",
+    "filename_encryptions": {
+      "obfuscate": "迷人的",
+      "off": "关闭",
+      "standard": "标准的"
+    },
+    "password": "密码",
+    "password-tips": "主密码",
+    "remote_path": "远程路径",
+    "remote_path-tips": "这是加密数据存储的位置",
+    "salt": "盐类",
+    "salt-tips": "如果您不知道什么是盐类，则将其作为第二个密码处理。可选但推荐使用",
+    "show_hidden": "显示隐藏的",
+    "show_hidden-tips": "显示隐藏目录和文件",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "启用在.thumbnail文件夹下预先生成的缩略图"
+  },
+  "Degoo": {
+    "access_token": "访问令牌",
+    "access_token-tips": "Degoo API访问令牌自动获取",
+    "password": "密码",
+    "password-tips": "您的 Degoo 帐户密码",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "自动更新令牌更新，自动获取",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名",
+    "username-tips": "您的 Degoo 帐户电子邮件"
+  },
+  "Doge": {
+    "access_key_id": "访问密钥ID",
+    "add_filename_to_disposition": "将文件名添加到位置",
+    "add_filename_to_disposition-tips": "将文件名添加到内容处理头中。",
+    "bucket": "桶数",
+    "custom_host": "自定义主机",
+    "direct_upload_host": "直接上传主机",
+    "enable_custom_host_presign": "启用自定义主机预览",
+    "enable_direct_upload": "启用直接上传",
+    "endpoint": "Endpoint",
+    "force_path_style": "强制路径样式",
+    "list_object_version": "列出对象版本",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "占位符",
+    "region": "地区",
+    "remove_bucket": "移除bucket",
+    "remove_bucket-tips": "使用自定义主机时从路径中删除bucket名称。",
+    "root_folder_path": "根文件夹路径",
+    "secret_access_key": "秘密访问密钥",
+    "session_token": "会话令牌",
+    "sign_url_expire": "签名地址过期"
+  },
+  "Doubao": {
+    "cookie": "Cookie",
+    "download_api": "下载 api",
+    "download_apis": {
+      "get_download_info": "获取下载信息",
+      "get_file_url": "获取文件url"
+    },
+    "limit_rate": "限速率",
+    "limit_rate-tips": "限制所有 api 请求率 ([limit]r/1s)",
+    "root_folder_id": "根文件夹 id",
+    "upload_thread": "上传帖子"
+  },
+  "DoubaoShare": {
+    "cookie": "Cookie",
+    "root_folder_path": "根文件夹路径",
+    "share_ids": "分享ID"
+  },
+  "Dropbox": {
+    "RootNamespaceId": "RootNamespaceId",
+    "api_url_address": "Api url地址",
+    "client_id": "客户端ID",
+    "client_id-tips": "如果你没有一个，请留空",
+    "client_secret": "客户端密钥",
+    "client_secret-tips": "如果你没有一个，请留空",
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根文件夹路径",
+    "use_online_api": "使用在线api"
+  },
+  "FTP": {
+    "address": "地址",
+    "encoding": "编码",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "username": "用户名"
+  },
+  "FebBox": {
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "page_size": "页面大小",
+    "page_size-tips": "2月Box 驱动程序每页大小列出api",
+    "root_folder_id": "根文件夹 id",
+    "sort_rule": "排序规则",
+    "sort_rules": {
+      "ext_asc": "Ext asc",
+      "ext_desc": "外部描述",
+      "name_asc": "名称为c",
+      "name_desc": "名称描述",
+      "size_asc": "Size asc",
+      "size_desc": "大小描述",
+      "update_asc": "更新",
+      "update_desc": "更新描述"
+    },
+    "user_ip": "用户ip",
+    "user_ip-tips": "用户IP地址用于下载链接，可以加快下载"
+  },
+  "FeijiPan": {
+    "ip": "Ip",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名"
+  },
+  "GitHub API": {
+    "author_email": "作者电子邮件",
+    "author_name": "作者姓名",
+    "committer_email": "佣金电子邮件",
+    "committer_name": "佣金名称",
+    "copy_commit_message": "复制提交消息",
+    "delete_commit_message": "删除提交消息",
+    "gh_proxy": "Gh 代理",
+    "gh_proxy-tips": "GitHub 代理，例如https://ghproxy.net/raw.githubusercontent.com 或 https://gh-proxy.com/raw.githubusercontent.com",
+    "gpg_key_passphrase": "Gpg 密钥密码",
+    "gpg_private_key": "Gpg 私钥",
+    "mkdir_commit_message": "Mkdir 提交消息",
+    "move_commit_message": "移动提交消息",
+    "owner": "所有者",
+    "put_commit_message": "放置提交消息",
+    "ref": "参考值",
+    "ref-tips": "默认情况下，一个分支、一个标签或提交 SHA, 主要分支。",
+    "rename_commit_message": "重命名提交消息",
+    "repo": "复数",
+    "root_folder_path": "根文件夹路径",
+    "token": "令牌"
+  },
+  "GitHub Releases": {
+    "gh_proxy": "Gh 代理",
+    "gh_proxy-tips": "GitHub proxy, e.g. https://ghproxy.net/github.com or https://gh-proxy.com/github.com ",
+    "repo_structure": "仓库结构",
+    "repo_structure-tips": "结构：[路径：]org/repo",
+    "root_folder_path": "根文件夹路径",
+    "show_all_version": "显示所有版本",
+    "show_all_version-tips": "显示所有版本",
+    "show_readme": "显示阅读次数",
+    "show_readme-tips": "显示 READMEC 文件，LICENSE 文件",
+    "show_source_code": "显示源代码",
+    "show_source_code-tips": "显示源代码 (zip/tar.gz)",
+    "token": "令牌",
+    "token-tips": "GitHub 令牌，如果您想要访问私有仓库或提高费率限制"
+  },
+  "GoogleDrive": {
+    "api_url_address": "Api url地址",
+    "chunk_size": "块大小",
+    "chunk_size-tips": "上传时区块大小 (单位: MB)",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "disable_disk_usage": "禁用磁盘使用",
+    "order_by": "排序方式",
+    "order_by-tips": "例如: 文件夹,名称,修改时间",
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "use_online_api": "使用在线api"
+  },
+  "GooglePhoto": {
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "show_archive": "显示存档"
+  },
+  "HalalCloud": {
+    "app_id": "应用程序 id",
+    "app_secret": "应用密钥",
+    "app_version": "应用程序版本",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "登录类型是refresh_token,这是必需的",
+    "root_folder_path": "根文件夹路径",
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1 <= thad <= 32"
+  },
+  "HalalCloudOpen": {
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "host": "主机",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "如果使用个人API方式，则不需要刷新令牌。",
+    "root_folder_path": "根文件夹路径",
+    "timeout": "超时",
+    "timeout-tips": "超时秒数",
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1 <= thad <= 32"
+  },
+  "ILanZou": {
+    "ip": "Ip",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "网关",
+    "mode": "模式",
+    "modes": {
+      "ipfs": "偶像",
+      "ipns": "Ipns",
+      "mfs": "Mfs"
+    },
+    "root_folder_path": "根文件夹路径"
+  },
+  "KodBox": {
+    "address": "地址",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "username": "用户名"
+  },
+  "Lanzou": {
+    "account": "账户",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "文件操作的基本URL",
+    "cookie": "Cookie",
+    "cookie-tips": "大约15天有效，如果使用 sharUrl 则忽略",
+    "password": "密码",
+    "repair_file_info": "修复文件信息",
+    "repair_file_info-tips": "要使用 webdav，您需要启用它",
+    "root_folder_id": "根文件夹 id",
+    "shareUrl": "共享Url",
+    "shareUrl-tips": "用于获取共享页面",
+    "share_password": "共享密码",
+    "type": "类型",
+    "types": {
+      "account": "账户",
+      "cookie": "Cookie",
+      "url": "网址"
+    },
+    "user_agent": "用户代理"
+  },
+  "LenovoNasShare": {
+    "host": "主机",
+    "host-tips": "你可以将它更改为你的局域网",
+    "root_folder_path": "根文件夹路径",
+    "share_id": "分享ID",
+    "share_id-tips": "最后/共享链接后的部分",
+    "share_pwd": "分享pwd",
+    "share_pwd-tips": "共享链接的密码",
+    "show_root_folder": "显示根文件夹"
+  },
+  "Local": {
+    "directory_size": "目录大小",
+    "directory_size-tips": "这可能会影响主机的业绩",
+    "mkdir_perm": "Mkdir perm",
+    "recycle_bin_path": "回收站路径",
+    "recycle_bin_path-tips": "回收站的路径，如果空或保留“永久删除”则永久删除",
+    "root_folder_path": "根文件夹路径",
+    "show_hidden": "显示隐藏的",
+    "show_hidden-tips": "显示隐藏目录和文件",
+    "thumb_cache_folder": "Thumb 缓存文件夹",
+    "thumb_concurrency": "缩略图",
+    "thumb_concurrency-tips": "同时生成缩略图的数量。这控制了可以并行生成多少缩略图。",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "启用缩略图",
+    "video_thumb_pos": "视频缩略图",
+    "video_thumb_pos-tips": "视频缩略图的位置。如果该值是一个数字(整数点浮点)，它代表几秒钟的时间。 如果值以“%”结尾，则代表视频持续时间的百分比。"
+  },
+  "MediaFire": {
+    "chunk_size": "块大小",
+    "cookie": "Cookie",
+    "cookie-tips": "MediaFire API 身份验证所需的",
+    "limit_rate": "限速率",
+    "limit_rate-tips": "限制所有 api 请求率 ([limit]r/1s)",
+    "order_by": "排序方式",
+    "order_bys": {
+      "name": "名称",
+      "size": "大小",
+      "time": "时间"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "根文件夹路径",
+    "session_token": "会话令牌",
+    "session_token-tips": "可选的 MediaFire API，可以从 cookie 自动获取",
+    "upload_threads": "上传线程",
+    "upload_threads-tips": "并行上传线程"
+  },
+  "MediaTrack": {
+    "access_token": "访问令牌",
+    "order_by": "排序方式",
+    "order_bys": {
+      "size": "大小",
+      "title": "标题",
+      "updated_at": "更新于"
+    },
+    "order_desc": "订单描述",
+    "project_id": "项目 id",
+    "root_folder_id": "根文件夹 id"
+  },
+  "Mega_nz": {
+    "email": "电子邮件地址",
+    "password": "密码",
+    "two_fa_code": "两种法",
+    "two_fa_code-tips": "2FA 6位数字代码，仅填写2FA 代码将不支持重载驱动程序",
+    "two_fa_secret": "两种秘钥",
+    "two_fa_secret-tips": "2FA 密钥"
+  },
+  "Misskey": {
+    "access_token": "访问令牌",
+    "endpoint": "Endpoint",
+    "root_folder_path": "根文件夹路径"
+  },
+  "MoPan": {
+    "cloud_id": "云ID",
+    "device_info": "设备信息",
+    "order_by": "排序方式",
+    "order_bys": {
+      "filename": "文件名",
+      "filesize": "文件大小",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "密码",
+    "phone": "电话",
+    "root_folder_id": "根文件夹 id",
+    "sms_code": "短信代码",
+    "sms_code-tips": "输入 '发送' 短信' ",
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "1<=线程<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Cookie",
+    "song_limit": "歌曲限制",
+    "song_limit-tips": "默认只获得 200 首歌曲"
+  },
+  "Onedrive": {
+    "api_url_address": "Api url地址",
+    "chunk_size": "块大小",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "custom_host": "自定义主机",
+    "custom_host-tips": "自定义网络下载链接",
+    "disable_disk_usage": "禁用磁盘使用",
+    "enable_direct_upload": "启用直接上传",
+    "enable_direct_upload-tips": "启用从客户端直接上传到 OneDrive",
+    "is_sharepoint": "是共享点",
+    "redirect_uri": "重定向uri",
+    "refresh_token": "刷新令牌",
+    "region": "地区",
+    "regions": {
+      "cn": "刻度",
+      "de": "德文",
+      "global": "全局范围",
+      "us": "我们"
+    },
+    "root_folder_path": "根文件夹路径",
+    "site_id": "Site id",
+    "use_online_api": "使用在线api"
+  },
+  "Onedrive Sharelink": {
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "url": "网址"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "块大小",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "custom_host": "自定义主机",
+    "custom_host-tips": "自定义网络下载链接",
+    "disable_disk_usage": "禁用磁盘使用",
+    "email": "电子邮件地址",
+    "enable_direct_upload": "启用直接上传",
+    "enable_direct_upload-tips": "启用从客户端直接上传到 OneDrive",
+    "region": "地区",
+    "regions": {
+      "cn": "刻度",
+      "de": "德文",
+      "global": "全局范围",
+      "us": "我们"
+    },
+    "root_folder_path": "根文件夹路径",
+    "tenant_id": "Tenant id"
+  },
+  "OpenList": {
+    "forward_archive_requests": "转发归档请求",
+    "meta_password": "元密码",
+    "pass_ip_to_upsteam": "将IP传递到上立体声",
+    "pass_ua_to_upsteam": "通过ua传到steam",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "token": "令牌",
+    "url": "网址",
+    "username": "用户名"
+  },
+  "OpenListShare": {
+    "forward_archive_requests": "转发归档请求",
+    "pwd": "普特德",
+    "root_folder_path": "根文件夹路径",
+    "sid": "希德",
+    "url": "网址"
+  },
+  "PikPak": {
+    "captcha_token": "验证码令牌",
+    "device_id": "设备ID",
+    "disable_media_link": "禁用媒体链接",
+    "password": "密码",
+    "platform": "平台",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "username": "用户名"
+  },
+  "PikPakShare": {
+    "device_id": "设备ID",
+    "platform": "平台",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Web"
+    },
+    "root_folder_id": "根文件夹 id",
+    "share_id": "分享ID",
+    "share_pwd": "分享pwd",
+    "use_transcoding_address": "使用转码地址"
+  },
+  "ProtonDrive": {
+    "chunk_size": "块大小",
+    "email": "电子邮件地址",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "two_fa_code": "两种法",
+    "use_reusable_login": "使用可重新使用的登录",
+    "use_reusable_login-tips": "使用可重新使用的登录凭据而不是用户名/密码"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "only_list_video_file": "仅列出视频文件",
+    "order_by": "排序方式",
+    "order_bys": {
+      "file_name": "文件名称",
+      "file_type": "文件类型",
+      "none": "无",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "根文件夹 id",
+    "use_transcoding_address": "使用转码地址",
+    "use_transcoding_address-tips": "您可以观看转码视频并支持302重定向"
+  },
+  "QuarkOpen": {
+    "access_token": "访问令牌",
+    "api_url_address": "Api url地址",
+    "app_id": "应用程序 id",
+    "app_id-tips": "如果你没有一个，请留空",
+    "order_by": "排序方式",
+    "order_bys": {
+      "created_at": "创建于",
+      "file_name": "文件名称",
+      "file_type": "文件类型",
+      "none": "无",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "sign_key": "签名密钥",
+    "sign_key-tips": "如果你没有一个，请留空",
+    "use_online_api": "使用在线api"
+  },
+  "QuarkTV": {
+    "device_id": "设备ID",
+    "link_method": "链接方法",
+    "link_methods": {
+      "download": "下载",
+      "streaming": "流流"
+    },
+    "order_by": "排序方式",
+    "order_bys": {
+      "file_name": "文件名称",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "查询令牌",
+    "query_token-tips": "不编辑",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id"
+  },
+  "S3": {
+    "access_key_id": "访问密钥ID",
+    "add_filename_to_disposition": "将文件名添加到位置",
+    "add_filename_to_disposition-tips": "将文件名添加到内容处理头中。",
+    "bucket": "桶数",
+    "custom_host": "自定义主机",
+    "direct_upload_host": "直接上传主机",
+    "enable_custom_host_presign": "启用自定义主机预览",
+    "enable_direct_upload": "启用直接上传",
+    "endpoint": "Endpoint",
+    "force_path_style": "强制路径样式",
+    "list_object_version": "列出对象版本",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "占位符",
+    "region": "地区",
+    "remove_bucket": "移除bucket",
+    "remove_bucket-tips": "使用自定义主机时从路径中删除bucket名称。",
+    "root_folder_path": "根文件夹路径",
+    "secret_access_key": "秘密访问密钥",
+    "session_token": "会话令牌",
+    "sign_url_expire": "签名地址过期"
+  },
+  "SFTP": {
+    "address": "地址",
+    "ignore_symlink_error": "忽略符号链接错误",
+    "passphrase": "口令",
+    "password": "密码",
+    "private_key": "私钥",
+    "root_folder_path": "根文件夹路径",
+    "username": "用户名"
+  },
+  "SMB": {
+    "address": "地址",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "share_name": "共享名称",
+    "username": "用户名"
+  },
+  "Seafile": {
+    "address": "地址",
+    "password": "密码",
+    "repoId": "RepoId",
+    "repoPwd": "仓库组",
+    "root_folder_path": "根文件夹路径",
+    "token": "令牌",
+    "username": "用户名"
+  },
+  "Strm": {
+    "KeepLocalDownloadFile": "KeepLocalDownload文件",
+    "KeepLocalDownloadFile-tips": "保持本地下载文件",
+    "PathPrefix": "路径前缀",
+    "PathPrefix-tips": "路径前缀",
+    "SaveStrmLocalPath": "保存StrmLocalPath",
+    "SaveStrmLocalPath-tips": "保存strm文件本地路径",
+    "SaveStrmToLocal": "保存StrmTo本地",
+    "SaveStrmToLocal-tips": "本地保存 strm 文件",
+    "downloadFileTypes": "下载文件类型",
+    "downloadFileTypes-tips": "文件需要用字符串下载 (用字幕)",
+    "encodePath": "编码路径",
+    "encodePath-tips": "在字符串文件中编码路径",
+    "filterFileTypes": "过滤文件类型",
+    "filterFileTypes-tips": "支持字符串文件的后缀名称",
+    "paths": "路径",
+    "siteUrl": "SiteUrl",
+    "siteUrl-tips": "字符串文件的前缀 URL",
+    "withoutUrl": "退出Url",
+    "withoutUrl-tips": "字符串文件内容没有 URL 前缀"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "排序方式",
+    "order_bys": {
+      "created": "已创建",
+      "fileName": "文件名称",
+      "fileSize": "文件大小",
+      "updated": "已更新"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "Asc": "Asc",
+      "Desc": "Desc"
+    },
+    "project_id": "项目 id",
+    "region": "地区",
+    "regions": {
+      "china": "中国",
+      "international": "国际"
+    },
+    "root_folder_id": "根文件夹 id",
+    "use_s3_upload_method": "使用 s3 上传方法"
+  },
+  "Teldrive": {
+    "chunk_size": "块大小",
+    "chunk_size-tips": "MiB 区块大小",
+    "cookie": "Cookie",
+    "cookie-tips": "访问令牌=xxx",
+    "root_folder_path": "根文件夹路径",
+    "upload_concurrency": "上传同行",
+    "upload_concurrency-tips": "同步上传请求",
+    "url": "网址",
+    "use_share_link": "使用共享链接",
+    "use_share_link-tips": "当获取链接支持302时创建共享链接。如果禁用，您需要启用 Web 代理。"
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "下载 api",
+    "download_apis": {
+      "crack": "裂痕模式",
+      "official": "官方的"
+    },
+    "order_by": "排序方式",
+    "order_bys": {
+      "name": "名称",
+      "size": "大小",
+      "time": "时间"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "根文件夹路径"
+  },
+  "Thunder": {
+    "captcha_token": "验证码令牌",
+    "credit_key": "信用密钥",
+    "credit_key-tips": "信用密钥，用于登录",
+    "device_id": "设备ID",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "space": "空间",
+    "space-tips": "远程设备的设备 id",
+    "username": "用户名"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "验证码令牌",
+    "credit_key": "信用密钥",
+    "credit_key-tips": "信用密钥，用于登录",
+    "device_id": "设备ID",
+    "password": "密码",
+    "remove_way": "移除方式",
+    "remove_ways": {
+      "delete": "删除",
+      "trash": "回收站"
+    },
+    "root_folder_id": "根文件夹 id",
+    "safe_password": "安全密码",
+    "use_fluent_play": "使用流感游戏",
+    "use_fluent_play-tips": "使用流利播放进行离线下载，只支持 magnet 链接",
+    "use_video_url": "使用视频url",
+    "username": "用户名"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "算法",
+    "algorithms-tips": "签名类型是算法，这是必需的",
+    "captcha_sign": "验证码签名",
+    "captcha_sign-tips": "签名类型是captcha_sign,这是必需的",
+    "captcha_token": "验证码令牌",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "client_version": "客户端版本",
+    "credit_key": "信用密钥",
+    "credit_key-tips": "信用密钥，用于登录",
+    "device_id": "设备ID",
+    "download_user_agent": "下载用户代理",
+    "login_type": "登录类型",
+    "login_types": {
+      "refresh_token": "刷新令牌",
+      "user": "用户"
+    },
+    "package_name": "包名",
+    "password": "密码",
+    "password-tips": "登录类型是用户，必填项",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "登录类型是refresh_token,这是必需的",
+    "remove_way": "移除方式",
+    "remove_ways": {
+      "delete": "删除",
+      "trash": "回收站"
+    },
+    "root_folder_id": "根文件夹 id",
+    "safe_password": "安全密码",
+    "safe_password-tips": "超安全密码",
+    "sign_type": "签名类型",
+    "sign_types": {
+      "algorithms": "算法",
+      "captcha_sign": "验证码签名"
+    },
+    "timestamp": "时间戳",
+    "timestamp-tips": "签名类型是captcha_sign,这是必需的",
+    "use_fluent_play": "使用流感游戏",
+    "use_fluent_play-tips": "使用流利播放进行离线下载，只支持 magnet 链接",
+    "use_video_url": "使用视频url",
+    "user_agent": "用户代理",
+    "username": "用户名",
+    "username-tips": "登录类型是用户，必填项"
+  },
+  "ThunderExpert": {
+    "algorithms": "算法",
+    "algorithms-tips": "签名类型是算法，这是必需的",
+    "captcha_sign": "验证码签名",
+    "captcha_sign-tips": "签名类型是captcha_sign,这是必需的",
+    "captcha_token": "验证码令牌",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "client_version": "客户端版本",
+    "credit_key": "信用密钥",
+    "credit_key-tips": "信用密钥，用于登录",
+    "device_id": "设备ID",
+    "download_user_agent": "下载用户代理",
+    "login_type": "登录类型",
+    "login_types": {
+      "refresh_token": "刷新令牌",
+      "user": "用户"
+    },
+    "package_name": "包名",
+    "password": "密码",
+    "password-tips": "登录类型是用户，必填项",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "登录类型是refresh_token,这是必需的",
+    "root_folder_id": "根文件夹 id",
+    "sign_type": "签名类型",
+    "sign_types": {
+      "algorithms": "算法",
+      "captcha_sign": "验证码签名"
+    },
+    "space": "空间",
+    "space-tips": "远程设备的设备 id",
+    "timestamp": "时间戳",
+    "timestamp-tips": "签名类型是captcha_sign,这是必需的",
+    "use_video_url": "使用视频url",
+    "user_agent": "用户代理",
+    "username": "用户名",
+    "username-tips": "登录类型是用户，必填项"
+  },
+  "ThunderX": {
+    "captcha_token": "验证码令牌",
+    "password": "密码",
+    "root_folder_id": "根文件夹 id",
+    "use_video_url": "使用视频url",
+    "username": "用户名"
+  },
+  "ThunderXExpert": {
+    "algorithms": "算法",
+    "algorithms-tips": "签名类型是算法，这是必需的",
+    "captcha_sign": "验证码签名",
+    "captcha_sign-tips": "签名类型是captcha_sign,这是必需的",
+    "captcha_token": "验证码令牌",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "client_version": "客户端版本",
+    "device_id": "设备ID",
+    "download_user_agent": "下载用户代理",
+    "login_type": "登录类型",
+    "login_types": {
+      "refresh_token": "刷新令牌",
+      "user": "用户"
+    },
+    "package_name": "包名",
+    "password": "密码",
+    "password-tips": "登录类型是用户，必填项",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "登录类型是refresh_token,这是必需的",
+    "root_folder_id": "根文件夹 id",
+    "sign_type": "签名类型",
+    "sign_types": {
+      "algorithms": "算法",
+      "captcha_sign": "验证码签名"
+    },
+    "timestamp": "时间戳",
+    "timestamp-tips": "签名类型是captcha_sign,这是必需的",
+    "use_video_url": "使用视频url",
+    "user_agent": "用户代理",
+    "username": "用户名",
+    "username-tips": "登录类型是用户，必填项"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "only_list_video_file": "仅列出视频文件",
+    "order_by": "排序方式",
+    "order_bys": {
+      "file_name": "文件名称",
+      "file_type": "文件类型",
+      "none": "无",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "根文件夹 id",
+    "use_transcoding_address": "使用转码地址",
+    "use_transcoding_address-tips": "您可以观看转码视频并支持302重定向"
+  },
+  "UCTV": {
+    "device_id": "设备ID",
+    "link_method": "链接方法",
+    "link_methods": {
+      "download": "下载",
+      "streaming": "流流"
+    },
+    "order_by": "排序方式",
+    "order_bys": {
+      "file_name": "文件名称",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "query_token": "查询令牌",
+    "query_token-tips": "不编辑",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id"
+  },
+  "USS": {
+    "anti_theft_chain_token": "反盗窃链令牌",
+    "bucket": "桶数",
+    "endpoint": "Endpoint",
+    "operator_name": "操作员名称",
+    "operator_password": "操作员密码",
+    "root_folder_path": "根文件夹路径",
+    "sign_url_expire": "签名地址过期"
+  },
+  "UrlTree": {
+    "head_size": "头部大小",
+    "head_size-tips": "使用头部方法获取文件大小，但可能失败。",
+    "url_structure": "Url 结构",
+    "url_structure-tips": "structure:foldername:\n  [FileName:][FileSize:][修改:]Url",
+    "writable": "可写"
+  },
+  "Virtual": {
+    "max_file_size": "最大文件大小",
+    "min_file_size": "最小文件大小",
+    "num_file": "Num 文件",
+    "num_folder": "文件夹数量",
+    "root_folder_path": "根文件夹路径"
+  },
+  "WebDav": {
+    "address": "地址",
+    "password": "密码",
+    "root_folder_path": "根文件夹路径",
+    "tls_insecure_skip_verify": "测试不安全的跳过验证",
+    "username": "用户名",
+    "vendor": "供应商",
+    "vendors": {
+      "other": "其他",
+      "sharepoint": "共享点"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookie",
+    "order_by": "排序方式",
+    "order_bys": {
+      "name": "名称",
+      "size": "大小",
+      "updated_at": "更新于"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "根文件夹 id",
+    "upload_thread": "上传帖子",
+    "upload_thread-tips": "4<=thread<=32"
+  },
+  "WoPan": {
+    "access_token": "访问令牌",
+    "family_id": "品类 id",
+    "family_id-tips": "如果您想要使用您的个人驱动器，请保持为空",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根文件夹 id",
+    "sort_rule": "排序规则",
+    "sort_rules": {
+      "name_asc": "名称为c",
+      "name_desc": "名称描述",
+      "size_asc": "Size asc",
+      "size_desc": "大小描述",
+      "time_asc": "时间asc",
+      "time_desc": "时间描述"
+    }
+  },
+  "YandexDisk": {
+    "api_url_address": "Api url地址",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "order_by": "排序方式",
+    "order_bys": {
+      "created": "已创建",
+      "modified": "已修改",
+      "name": "名称",
+      "path": "路径",
+      "size": "大小"
+    },
+    "order_direction": "订单方向",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根文件夹路径",
+    "use_online_api": "使用在线api"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Open": {},
+    "115 Share": {},
+    "123 Open": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "如果此驱动程序无法工作，您可以尝试使用189PC 驱动程序。"
+    },
+    "189CloudPC": {},
+    "189CloudTV": {},
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "There may be an infinite loop bug in this driver.\nDeprecated, no longer maintained and will be removed in a future version.\nWe recommend using the official driver AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "Azure Blob Storage": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "CNB Releases": {},
+    "ChaoXingGroupDrive": {},
+    "Chunk": {},
+    "Cloudreve": {},
+    "Cloudreve V4": {},
+    "Crypt": {},
+    "Degoo": {},
+    "Doge": {},
+    "Doubao": {},
+    "DoubaoShare": {},
+    "Dropbox": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GitHub API": {},
+    "GitHub Releases": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "HalalCloud": {},
+    "HalalCloudOpen": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaFire": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Misskey": {},
+    "MoPan": {
+      "alert": "这个网络磁盘可以将您的密码存储在清除文本中。请仔细设置您的密码"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "OpenList": {},
+    "OpenListShare": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "ProtonDrive": {},
+    "Quark": {},
+    "QuarkOpen": {},
+    "QuarkTV": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Strm": {},
+    "Teambition": {},
+    "Teldrive": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 云",
+    "115 Open": "115 已打开",
+    "115 Share": "115 分享",
+    "123 Open": "123 打开",
+    "123Pan": "123平移",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189云",
+    "189CloudPC": "189云PC",
+    "189CloudTV": "189CloudTV",
+    "Alias": "Alias",
+    "Aliyundrive": "阿利翁德里夫",
+    "AliyundriveOpen": "Aliyundrive打开",
+    "AliyundriveShare": "AliyundriveShare",
+    "Azure Blob Storage": "Azure Blob 存储",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "百度照片",
+    "CNB Releases": "CNB 发布",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Chunk": "Chunk",
+    "Cloudreve": "Cloudreve",
+    "Cloudreve V4": "Cloudreve V4",
+    "Crypt": "加密文件",
+    "Degoo": "Degoo",
+    "Doge": "Doge",
+    "Doubao": "Doubao",
+    "DoubaoShare": "DoubaoShare",
+    "Dropbox": "Dropbox",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "FeijiPan",
+    "GitHub API": "GitHub API",
+    "GitHub Releases": "GitHub 发布",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "HalalCloud": "HalalCloud",
+    "HalalCloudOpen": "HalalCloudOpen",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "本地的",
+    "MediaFire": "MediaFire",
+    "MediaTrack": "媒体音轨",
+    "Mega_nz": "Mega nz",
+    "Misskey": "Misskey",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "NeteaseMusic",
+    "Onedrive": "Onedrive",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "OnedriveAPP",
+    "OpenList": "打开列表",
+    "OpenListShare": "OpenListShare",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "ProtonDrive": "ProtonDrive",
+    "Quark": "夸克",
+    "QuarkOpen": "季度打开",
+    "QuarkTV": "QuarkTV",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "冲锋枪",
+    "Seafile": "Seafile",
+    "Strm": "Strm",
+    "Teambition": "突击模式",
+    "Teldrive": "电话驱动器",
+    "Terabox": "特拉博克斯",
+    "Thunder": "雷机",
+    "ThunderBrowser": "Thunder浏览器",
+    "ThunderBrowserExpert": "ThunderBrowserExpert",
+    "ThunderExpert": "雷德专家",
+    "ThunderX": "ThunderX",
+    "ThunderXExpert": "ThunderXExpert",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "虚拟的",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk"
+  }
+}

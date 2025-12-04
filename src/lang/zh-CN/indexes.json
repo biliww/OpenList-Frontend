@@ -1,0 +1,23 @@
+{
+  "index_header": "搜索索引设置",
+  "search_index": "搜索索引",
+  "current": "当前索引",
+  "build": "构建索引",
+  "rebuild": "重建索引",
+  "paths_to_update": "要更新的路径",
+  "max_depth": "最大深度",
+  "update": "更新索引",
+  "obj_count": "对象计数",
+  "last_done_time": "最后完成时间",
+  "unknown": "未知的",
+  "stop": "停止",
+  "clear": "清空",
+  "error": "错误",
+  "scan_header": "手动扫描",
+  "task_status": "任务状态",
+  "running": "正在运行",
+  "idle": "空闲的",
+  "path_to_scan": "扫描路径",
+  "rate_limit": "速率限制",
+  "start": "开始"
+}

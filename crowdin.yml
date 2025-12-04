@@ -1,7 +1,14 @@
-project_id_env: CROWDIN_PROJECT_ID
-api_token_env: CROWDIN_PERSONAL_TOKEN
-preserve_hierarchy: true
+"project_id": "852114"
+"api_token": "12ad3cc6c1661b1444a8e8ea7b96061ae3393ff5c86a03975b3ee09b2385859ac99c13d1832f272c"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
 
-files:
-  - source: /src/lang/en/*.json
-    translation: /src/lang/%locale%/%original_file_name%
+"preserve_hierarchy": true
+
+"files":
+  [
+    {
+      "source": "/src/lang/en/*.json",
+      "translation": "/src/lang/%locale%/%original_file_name%",
+    },
+  ]

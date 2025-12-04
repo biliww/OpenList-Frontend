@@ -1,0 +1,41 @@
+{
+  "expires": "过期时间",
+  "id": "ID",
+  "accessed": "访问次数",
+  "max_accessed": "最大访问次数",
+  "pwd": "共享代码",
+  "files": "共享路径",
+  "files_etc": " and {{more}} more",
+  "files_placeholder": "输入文件或文件夹路径，每行一个",
+  "add_path": "添加路径",
+  "creator": "创建者",
+  "status": "状态",
+  "status_list": {
+    "disabled": "已禁用",
+    "invalid": "无效的",
+    "work": "工作",
+    "denied": "无权限"
+  },
+  "remark": "评议",
+  "readme": "描述",
+  "header": "页眉描述",
+  "order_by": "排序方式",
+  "order_bys": {
+    "name": "名称",
+    "size": "大小",
+    "modified": "已修改"
+  },
+  "order_direction": "订单方向",
+  "order_directions": {
+    "asc": "升序",
+    "desc": "降序"
+  },
+  "extract_folder": "文件夹顺序",
+  "extract_folders": {
+    "front": "顶部文件夹",
+    "back": "底部文件夹"
+  },
+  "input_password": "请输入共享代码",
+  "copy_msg": "复制链接",
+  "no_permission_tip": "要创建共享，您需要“共享”权限。"
+}
