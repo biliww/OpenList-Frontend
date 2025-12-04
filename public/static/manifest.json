@@ -2,10 +2,10 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "OpenList",
+  "name": "Ideaflow",
   "icons": [
     {
-      "src": "https://res.oplist.org/logo/512x512.png",
+      "src": "https://fileupload.ideaflow.top/file/1764140953099_6.png",
       "sizes": "512x512",
       "type": "image/png"
     }
